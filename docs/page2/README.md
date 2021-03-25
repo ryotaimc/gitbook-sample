@@ -1,3 +1,4 @@
 # README
 
-- page2 read me
+* page2 read me
+

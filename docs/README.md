@@ -1,9 +1,10 @@
 # README
 
-- sample readme document
+* sample readme document
 
-```plantuml
+```text
 @startuml
 bob->alice: test
 @enduml
 ```
+
